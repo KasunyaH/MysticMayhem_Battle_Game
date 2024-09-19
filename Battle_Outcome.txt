@@ -1,0 +1,123 @@
+warlock vs ranger
+TURN 1 : warlock
+warlock attacks ranger
+ranger's health   :   2.6
+warlock's health  :   10.0
+
+warlock vs shooter
+TURN 2 : warlock
+warlock attacks shooter
+shooter's health   :   0.4
+warlock's health  :   10.0
+
+shooter vs ranger
+TURN 3 : shooter
+shooter attacks ranger
+ranger died
+shooter's health  :   0.4
+
+squire vs shooter
+TURN 4 : squire
+squire attacks shooter
+shooter died
+squire's health  :   7.0
+
+squire vs medic
+TURN 5 : squire
+squire attacks medic
+medic's health   :   7.8
+squire's health  :   7.0
+
+dragon vs soother
+TURN 6 : dragon
+dragon attacks soother
+soother's health   :   4.3
+dragon's health  :   15.0
+
+dragon vs medic
+TURN 7 : dragon
+dragon attacks medic
+medic's health   :   3.1
+dragon's health  :   15.0
+
+medic vs soother
+TURN 8 : medic
+medic attacks soother
+soother's health   :   4.3
+medic's health  :   3.1
+
+soother vs medic
+TURN 9 : soother
+soother attacks medic
+medic's health   :   4.4
+soother's health  :   4.3
+
+warlock vs soother
+TURN 10 : warlock
+warlock attacks soother
+soother died
+warlock's health  :   10.0
+
+warlock vs medic
+TURN 11 : warlock
+warlock attacks medic
+medic died
+warlock's health  :   10.0
+
+squire vs warlock
+TURN 12 : squire
+squire attacks warlock
+warlock's health   :   6.9
+squire's health  :   7.0
+
+squire vs warlock
+TURN 13 : squire
+squire attacks warlock
+warlock's health   :   6.9
+squire's health  :   7.0
+
+dragon vs warlock
+TURN 14 : dragon
+dragon attacks warlock
+warlock's health   :   2.3
+dragon's health  :   15.0
+
+dragon vs warlock
+TURN 15 : dragon
+dragon attacks warlock
+warlock's health   :   2.3
+dragon's health  :   15.0
+
+warlock vs warlock
+TURN 16 : warlock
+warlock attacks warlock
+warlock died
+warlock's health  :   2.3
+
+squire vs warlock
+TURN 17 : squire
+squire attacks warlock
+warlock died
+squire's health  :   7.0
+
+squire vs squire
+TURN 18 : squire
+squire attacks squire
+squire's health   :   4.1
+squire's health  :   7.0
+
+dragon vs squire
+TURN 19 : dragon
+dragon attacks squire
+squire's health   :   2.6
+dragon's health  :   15.0
+
+dragon vs squire
+TURN 20 : dragon
+dragon attacks squire
+squire died
+dragon's health  :   15.0
+
+DRAW
+current        XP : 0           Gold Coins: 20
+GeraltoRivia   XP : 32          Gold Coins: 215
